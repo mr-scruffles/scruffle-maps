@@ -1,0 +1,10 @@
+/node_modules
+/pkg/*
+/bin/*
+.env
+/dist/*
+npm-debug.log
+db.json
+/tests/reports/*
+/tests/screenshots/*
+/logs/*

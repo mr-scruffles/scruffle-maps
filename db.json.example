@@ -1,0 +1,23 @@
+{
+  "markers": [
+    {
+      "placeDetails": {
+        "formatted_phone_number": "(415) 800-8121",
+        "website": "http://touchstoneclimbing.com/dogpatch-boulders",
+        "name": "Dogpatch Boulders",
+        "rating": 4.9
+      },
+      "type": "",
+      "place": {
+        "location": {
+          "lat": 37.7567228,
+          "lng": -122.38778200000002
+        },
+        "placeId": "ChIJ2xYuRrp_j4ARU9Lx0LBnqrY"
+      },
+      "showInfoWindow": false,
+      "maxWidth": 180,
+      "id": 1
+    }
+  ]
+}
